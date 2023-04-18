@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fitness/static/css/main.20acbc28.css",
+    "main.js": "/fitness/static/js/main.3ce04895.js",
+    "static/media/gym.png": "/fitness/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/fitness/index.html",
+    "main.20acbc28.css.map": "/fitness/static/css/main.20acbc28.css.map",
+    "main.3ce04895.js.map": "/fitness/static/js/main.3ce04895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.3ce04895.js"
+  ]
+}
